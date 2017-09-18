@@ -8,9 +8,10 @@ body{
 }
 
 h1{
-    font-size: 50em;
+    height: 45px;
+    font-size: 100px;
     color: #96858F;
-    font-family: Courier;
+    font-family: Courier New, Courier, monospace;
 }   
     
     /*height: auto;
@@ -63,12 +64,12 @@ ul{
     color: #6d7993;
 }
 
-img {
+/*img {
     -webkit-filter: grayscale(100%); 
     filter: grayscale(100%);
     
 
-}
+}*/
 figcaption{
     color: #96858F;
 
